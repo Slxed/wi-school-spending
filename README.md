@@ -37,11 +37,6 @@ README.md
 .gitignore
 ```
 
-## Coming soon
-
-- The Python and SQL scripts I used to clean and join the data
-- A link to an ArcGIS StoryMap version of this project
-
 ## About me
 
 I'm William Day, a Data Science and Cartography & GIS student at UW–Madison. [LinkedIn](https://www.linkedin.com/in/william-day-5b73112bb)
