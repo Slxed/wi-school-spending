@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.env
+
+# ArcGIS Pro scratch and cache files
+*.lock
+*.sr.lock
+*.atx
+*.gdb/*.lock
+.backups/
+ImportLog/
+Index/
+GpMessages/
+*.aprx.bak
+scratch.gdb/
+Scratch/
+*.ovr
+*.aux.xml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
