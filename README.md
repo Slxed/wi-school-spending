@@ -2,12 +2,13 @@
 
 ![Map of Wisconsin school districts comparing spending per student and graduation rate](map/wi_spending_vs_graduation.png)
 
-I wanted to know if Wisconsin districts that spend more per student also graduate more of their students. The short answer is not really.
+My main question when creating this map was how correlated the actual per-student spending was to real outcome on graduation rate. Due to my background working for a school district, and having close family working in that same public school I thought it would be interesting to explore further.
 
 ## What I did
 
 I used Wisconsin DPI data for the 2023-24 school year, covering 421 districts. The district boundaries came from the basemap we used in a GEOG 370 lab.
 
+- Merged a combination of 5 excel spreadsheets into a solid list of columns that provided what I needed
 - Cleaned the spending and graduation tables and joined them by district in Python and SQL
 - Joined that to the district boundaries in ArcGIS Pro
 - Made a bivariate choropleth so both variables show up on one map
